@@ -1,0 +1,2001 @@
+CustomerID,customer_segment,recency_score,frequency_score,monetary_score
+CUST01683,At Risk,1,4,5
+CUST01650,At Risk,1,3,4
+CUST01998,At Risk,1,4,4
+CUST00526,At Risk,1,4,4
+CUST01808,At Risk,1,3,4
+CUST00147,At Risk,1,5,5
+CUST00494,At Risk,1,4,4
+CUST01016,At Risk,1,5,3
+CUST00919,At Risk,1,3,3
+CUST01078,At Risk,1,3,3
+CUST01800,At Risk,1,4,3
+CUST01133,At Risk,1,5,5
+CUST00844,At Risk,1,4,3
+CUST00770,At Risk,1,3,4
+CUST01141,At Risk,1,3,2
+CUST01901,At Risk,1,3,3
+CUST01510,At Risk,1,3,3
+CUST00152,At Risk,1,3,3
+CUST01737,At Risk,1,3,3
+CUST01876,At Risk,1,3,3
+CUST01308,At Risk,1,4,3
+CUST00072,At Risk,1,4,3
+CUST01791,At Risk,1,3,2
+CUST01626,At Risk,1,5,5
+CUST01601,At Risk,1,3,4
+CUST01943,At Risk,1,3,3
+CUST00534,At Risk,1,5,5
+CUST00841,At Risk,1,3,2
+CUST00323,At Risk,1,5,4
+CUST01939,At Risk,1,4,4
+CUST00295,At Risk,1,5,5
+CUST00657,At Risk,1,4,4
+CUST00231,At Risk,1,3,2
+CUST01695,At Risk,1,3,4
+CUST00546,At Risk,1,3,3
+CUST00454,At Risk,1,3,3
+CUST01564,At Risk,1,4,4
+CUST01647,At Risk,1,3,3
+CUST00261,At Risk,1,5,5
+CUST00053,At Risk,1,4,5
+CUST01468,At Risk,1,5,5
+CUST01396,At Risk,1,4,2
+CUST01852,At Risk,1,4,5
+CUST00038,At Risk,1,4,5
+CUST01489,At Risk,1,4,3
+CUST00772,At Risk,1,3,3
+CUST01040,At Risk,1,3,3
+CUST00994,At Risk,1,5,5
+CUST01247,At Risk,1,5,5
+CUST01462,At Risk,1,4,5
+CUST01753,At Risk,1,4,2
+CUST00124,At Risk,1,4,3
+CUST01857,At Risk,1,3,4
+CUST00304,At Risk,1,3,3
+CUST01058,At Risk,1,3,4
+CUST00303,At Risk,1,3,3
+CUST00861,At Risk,1,4,4
+CUST01074,At Risk,1,3,3
+CUST00779,At Risk,1,3,1
+CUST00655,At Risk,1,5,4
+CUST00513,At Risk,1,3,2
+CUST01488,At Risk,1,4,4
+CUST00063,At Risk,1,4,4
+CUST01867,At Risk,1,4,2
+CUST00375,At Risk,1,3,2
+CUST01922,At Risk,1,3,4
+CUST00620,At Risk,1,4,5
+CUST00430,At Risk,1,4,4
+CUST00823,At Risk,1,4,4
+CUST00133,At Risk,1,4,4
+CUST01824,At Risk,1,4,5
+CUST01388,At Risk,1,3,2
+CUST01453,At Risk,1,5,5
+CUST01438,At Risk,1,4,3
+CUST00597,At Risk,1,4,4
+CUST01709,At Risk,1,3,4
+CUST00465,At Risk,1,4,3
+CUST00692,At Risk,1,3,4
+CUST00057,At Risk,1,5,5
+CUST01930,At Risk,1,5,5
+CUST01356,At Risk,1,4,4
+CUST00015,At Risk,1,3,1
+CUST00206,At Risk,1,3,2
+CUST01033,At Risk,1,3,1
+CUST01417,At Risk,1,4,3
+CUST01978,At Risk,1,3,2
+CUST00297,At Risk,1,5,5
+CUST01318,At Risk,1,4,3
+CUST00569,At Risk,1,3,3
+CUST00851,At Risk,1,3,4
+CUST01637,At Risk,1,4,3
+CUST01474,At Risk,1,5,5
+CUST00939,At Risk,1,3,3
+CUST01714,At Risk,1,3,3
+CUST01713,At Risk,1,3,3
+CUST00212,At Risk,1,3,3
+CUST01020,At Risk,1,4,1
+CUST00380,At Risk,1,4,2
+CUST00794,At Risk,1,4,2
+CUST00381,At Risk,1,4,5
+CUST01367,At Risk,1,5,3
+CUST00401,At Risk,1,5,5
+CUST00278,At Risk,1,5,4
+CUST00156,At Risk,1,4,3
+CUST01294,At Risk,1,5,5
+CUST00537,At Risk,1,5,5
+CUST01874,At Risk,1,4,4
+CUST00246,At Risk,1,3,4
+CUST00012,At Risk,1,4,2
+CUST00436,At Risk,1,5,5
+CUST01140,At Risk,1,5,5
+CUST00754,At Risk,1,3,3
+CUST00990,At Risk,1,5,5
+CUST00591,At Risk,1,5,5
+CUST01591,At Risk,1,4,4
+CUST00165,At Risk,1,4,2
+CUST00387,At Risk,1,3,5
+CUST00940,At Risk,1,3,4
+CUST00438,At Risk,1,3,4
+CUST01790,At Risk,1,3,3
+CUST00185,At Risk,1,3,4
+CUST00032,At Risk,1,3,4
+CUST00343,At Risk,1,3,5
+CUST00025,At Risk,1,4,3
+CUST01875,At Risk,1,4,5
+CUST01404,At Risk,1,3,3
+CUST00856,At Risk,1,5,4
+CUST00602,At Risk,1,3,3
+CUST01192,At Risk,1,3,3
+CUST01118,At Risk,1,5,5
+CUST01169,At Risk,1,5,5
+CUST00784,At Risk,1,4,3
+CUST00021,At Risk,1,4,3
+CUST00227,At Risk,1,4,4
+CUST00592,At Risk,2,4,4
+CUST01412,At Risk,2,3,3
+CUST00758,At Risk,2,3,3
+CUST00966,At Risk,2,4,2
+CUST00693,At Risk,2,3,3
+CUST00406,At Risk,2,5,5
+CUST00683,At Risk,2,3,3
+CUST00284,At Risk,2,4,4
+CUST01232,At Risk,2,3,3
+CUST01332,At Risk,2,4,5
+CUST00514,At Risk,2,4,4
+CUST01442,At Risk,2,3,4
+CUST01018,At Risk,2,3,2
+CUST01152,At Risk,2,3,2
+CUST00541,At Risk,2,3,4
+CUST01165,At Risk,2,5,5
+CUST01913,At Risk,2,3,3
+CUST01748,At Risk,2,4,3
+CUST01202,At Risk,2,4,3
+CUST01605,At Risk,2,5,5
+CUST01853,At Risk,2,4,2
+CUST01767,At Risk,2,5,5
+CUST01924,At Risk,2,5,5
+CUST00158,At Risk,2,4,4
+CUST01882,At Risk,2,4,5
+CUST00599,At Risk,2,3,4
+CUST01696,At Risk,2,4,5
+CUST00097,At Risk,2,4,3
+CUST00031,At Risk,2,4,4
+CUST00008,At Risk,2,5,5
+CUST00800,At Risk,2,5,4
+CUST01471,At Risk,2,5,5
+CUST00056,At Risk,2,4,3
+CUST00852,At Risk,2,4,3
+CUST00676,At Risk,2,3,4
+CUST00647,At Risk,2,3,5
+CUST00198,At Risk,2,4,4
+CUST00581,At Risk,2,4,4
+CUST00385,At Risk,2,3,3
+CUST01627,At Risk,2,3,2
+CUST00285,At Risk,2,5,4
+CUST00870,At Risk,2,5,5
+CUST01828,At Risk,2,3,2
+CUST00144,At Risk,2,3,4
+CUST00812,At Risk,2,3,2
+CUST00764,At Risk,2,5,5
+CUST01399,At Risk,2,5,5
+CUST00814,At Risk,2,3,5
+CUST00154,At Risk,2,3,4
+CUST01386,At Risk,2,5,5
+CUST01698,At Risk,2,4,4
+CUST01561,At Risk,2,5,5
+CUST01402,At Risk,2,4,2
+CUST00535,At Risk,2,3,4
+CUST01701,At Risk,2,3,2
+CUST01129,At Risk,2,5,5
+CUST00006,At Risk,2,3,4
+CUST00830,At Risk,2,4,4
+CUST01839,At Risk,2,4,4
+CUST01222,At Risk,2,5,3
+CUST01704,At Risk,2,5,5
+CUST00726,At Risk,2,5,5
+CUST01084,At Risk,2,5,5
+CUST00461,At Risk,2,5,5
+CUST00933,At Risk,2,5,5
+CUST00399,At Risk,2,5,4
+CUST01915,At Risk,2,4,3
+CUST00383,At Risk,2,3,4
+CUST00871,At Risk,2,5,5
+CUST01914,At Risk,2,5,5
+CUST01572,At Risk,2,5,5
+CUST00927,At Risk,2,4,4
+CUST01927,At Risk,2,3,1
+CUST01293,At Risk,2,5,4
+CUST01389,At Risk,2,4,4
+CUST01239,At Risk,2,5,4
+CUST01778,At Risk,2,3,2
+CUST00506,At Risk,2,3,5
+CUST01443,At Risk,2,3,3
+CUST00912,At Risk,2,4,3
+CUST01000,At Risk,2,3,2
+CUST00277,At Risk,2,4,4
+CUST01485,At Risk,2,4,2
+CUST01726,At Risk,2,5,5
+CUST00351,At Risk,2,3,3
+CUST00395,At Risk,2,3,2
+CUST00662,At Risk,2,3,3
+CUST01312,At Risk,2,3,3
+CUST01081,At Risk,2,4,4
+CUST00294,At Risk,2,4,4
+CUST00068,At Risk,2,4,4
+CUST01054,At Risk,2,4,2
+CUST00767,At Risk,2,4,3
+CUST01866,At Risk,2,3,2
+CUST00642,At Risk,2,3,2
+CUST00373,At Risk,2,5,3
+CUST00988,At Risk,2,5,5
+CUST01673,At Risk,2,4,4
+CUST01212,At Risk,2,4,5
+CUST00622,At Risk,2,5,5
+CUST01314,At Risk,2,4,5
+CUST01005,At Risk,2,5,5
+CUST00413,At Risk,2,4,4
+CUST01452,At Risk,2,5,4
+CUST00948,At Risk,2,4,5
+CUST01593,At Risk,2,4,4
+CUST00266,At Risk,2,5,3
+CUST01206,At Risk,2,5,4
+CUST01509,At Risk,2,4,5
+CUST01256,At Risk,2,5,5
+CUST01278,At Risk,2,3,4
+CUST00732,At Risk,2,5,5
+CUST00020,At Risk,2,5,4
+CUST00458,At Risk,2,4,3
+CUST01646,At Risk,2,3,4
+CUST00984,At Risk,2,3,2
+CUST01879,At Risk,2,5,5
+CUST01622,At Risk,2,3,4
+CUST00751,At Risk,2,5,5
+CUST00490,At Risk,2,5,5
+CUST00781,At Risk,2,5,5
+CUST00746,At Risk,2,5,5
+CUST00564,At Risk,2,3,1
+CUST00766,At Risk,2,3,2
+CUST01401,At Risk,2,5,5
+CUST00252,At Risk,2,5,5
+CUST01337,At Risk,2,5,5
+CUST01919,At Risk,2,3,4
+CUST01604,At Risk,2,3,4
+CUST00422,At Risk,2,4,4
+CUST00902,At Risk,2,3,5
+CUST01178,At Risk,2,3,3
+CUST00568,At Risk,2,4,5
+CUST01797,At Risk,2,4,4
+CUST00466,At Risk,2,4,2
+CUST00652,At Risk,2,4,2
+CUST00704,At Risk,2,4,3
+CUST01606,At Risk,2,4,4
+CUST01640,At Risk,2,4,4
+CUST00270,At Risk,2,3,3
+CUST01408,At Risk,2,3,4
+CUST00209,At Risk,2,3,2
+CUST01147,At Risk,2,3,2
+CUST00957,At Risk,2,5,4
+CUST01381,At Risk,2,3,5
+CUST00369,At Risk,2,4,5
+CUST00516,At Risk,2,4,4
+CUST00400,At Risk,2,5,4
+CUST00146,At Risk,2,3,3
+CUST01989,At Risk,2,3,3
+CUST01949,At Risk,2,4,4
+CUST01191,At Risk,2,4,5
+CUST01841,At Risk,2,3,2
+CUST01436,At Risk,2,5,4
+CUST00878,At Risk,2,3,5
+CUST00419,At Risk,2,5,5
+CUST00153,At Risk,2,4,4
+CUST01251,At Risk,2,4,3
+CUST00342,At Risk,2,4,4
+CUST01374,At Risk,2,3,3
+CUST01137,At Risk,2,3,2
+CUST01661,At Risk,2,4,5
+CUST01205,At Risk,2,5,5
+CUST00141,At Risk,2,5,4
+CUST00952,At Risk,2,5,4
+CUST01611,At Risk,2,4,3
+CUST00600,At Risk,2,3,3
+CUST00565,At Risk,2,4,4
+CUST01479,At Risk,2,3,3
+CUST00362,At Risk,2,5,5
+CUST01491,At Risk,2,5,5
+CUST00916,At Risk,2,5,4
+CUST00524,At Risk,2,4,3
+CUST01931,At Risk,2,5,3
+CUST01127,At Risk,2,3,3
+CUST01684,At Risk,2,3,3
+CUST00709,At Risk,2,3,3
+CUST01434,At Risk,2,3,2
+CUST01747,At Risk,2,5,4
+CUST00078,At Risk,2,4,5
+CUST01773,At Risk,2,3,4
+CUST01935,At Risk,2,3,4
+CUST00986,At Risk,2,5,5
+CUST01467,At Risk,2,5,5
+CUST00839,At Risk,2,5,5
+CUST01195,At Risk,2,4,2
+CUST01449,At Risk,2,3,2
+CUST01188,At Risk,2,4,5
+CUST00617,At Risk,2,4,3
+CUST00210,At Risk,2,5,5
+CUST01072,At Risk,2,3,2
+CUST01619,At Risk,2,3,3
+CUST01171,At Risk,2,5,5
+CUST01917,At Risk,2,4,5
+CUST00115,At Risk,2,5,5
+CUST01053,At Risk,2,3,3
+CUST01313,At Risk,2,4,4
+CUST00045,At Risk,2,5,5
+CUST01095,At Risk,2,4,4
+CUST01527,At Risk,2,4,5
+CUST01731,At Risk,2,4,5
+CUST00960,At Risk,2,4,4
+CUST00596,At Risk,2,4,4
+CUST00300,At Risk,2,4,4
+CUST01138,At Risk,2,3,4
+CUST00992,At Risk,2,4,4
+CUST00468,At Risk,2,5,5
+CUST01478,At Risk,2,5,4
+CUST01617,At Risk,2,4,4
+CUST00338,At Risk,2,3,3
+CUST00420,At Risk,2,4,4
+CUST00378,At Risk,2,4,4
+CUST00320,At Risk,2,4,5
+CUST01189,At Risk,2,3,3
+CUST00099,At Risk,2,5,5
+CUST01799,At Risk,2,4,4
+CUST00064,At Risk,2,4,2
+CUST00598,At Risk,2,3,2
+CUST01475,At Risk,2,3,2
+CUST01301,At Risk,2,5,5
+CUST01663,At Risk,2,4,2
+CUST01009,At Risk,2,5,5
+CUST01119,At Risk,2,3,3
+CUST01447,At Risk,2,5,5
+CUST00070,At Risk,2,5,5
+CUST01219,At Risk,2,3,2
+CUST01881,At Risk,2,3,2
+CUST00520,At Risk,2,4,5
+CUST00085,At Risk,2,3,3
+CUST01840,At Risk,2,3,3
+CUST00405,At Risk,2,5,5
+CUST00243,At Risk,2,4,3
+CUST01099,At Risk,2,3,2
+CUST00533,At Risk,1,3,4
+CUST00037,At Risk,1,3,3
+CUST00480,At Risk,1,3,5
+CUST00778,At Risk,1,3,4
+CUST01160,At Risk,1,3,3
+CUST01542,At Risk,1,3,2
+CUST01425,At Risk,1,4,4
+CUST01431,At Risk,1,4,1
+CUST00457,At Risk,1,4,3
+CUST01068,At Risk,1,5,5
+CUST01508,At Risk,1,3,3
+CUST00695,At Risk,1,5,4
+CUST00802,At Risk,1,3,3
+CUST01555,At Risk,1,4,5
+CUST00895,At Risk,1,3,3
+CUST01006,At Risk,1,3,2
+CUST00196,At Risk,1,3,3
+CUST01450,At Risk,1,5,5
+CUST00180,At Risk,1,3,3
+CUST01490,At Risk,1,3,4
+CUST01859,At Risk,1,4,4
+CUST00604,At Risk,1,5,5
+CUST01271,At Risk,1,3,4
+CUST01994,At Risk,1,4,5
+CUST01645,At Risk,1,5,5
+CUST00517,At Risk,1,4,1
+CUST01480,At Risk,1,3,4
+CUST00964,At Risk,1,3,4
+CUST01858,At Risk,1,5,4
+CUST00744,At Risk,1,4,2
+CUST01354,At Risk,1,4,4
+CUST00199,At Risk,1,3,4
+CUST01600,At Risk,1,5,4
+CUST00229,At Risk,1,3,2
+CUST00486,At Risk,1,4,5
+CUST00094,At Risk,1,3,4
+CUST01266,At Risk,1,4,4
+CUST01633,At Risk,1,3,2
+CUST00771,At Risk,1,4,2
+CUST00918,At Risk,1,3,4
+CUST01597,At Risk,1,5,5
+CUST01740,At Risk,1,5,5
+CUST01730,At Risk,1,3,4
+CUST01970,At Risk,1,5,4
+CUST00129,At Risk,1,5,5
+CUST00645,At Risk,1,4,3
+CUST01112,At Risk,1,5,2
+CUST00437,At Risk,1,3,4
+CUST01654,At Risk,1,3,3
+CUST00155,At Risk,1,5,5
+CUST00497,At Risk,1,3,4
+CUST00650,Champions,4,5,4
+CUST01093,Champions,5,5,5
+CUST00673,Champions,4,4,3
+CUST01283,Champions,4,5,5
+CUST00954,Champions,5,4,5
+CUST01613,Champions,5,5,5
+CUST01965,Champions,5,5,4
+CUST00077,Champions,4,5,5
+CUST01366,Champions,4,5,5
+CUST01275,Champions,5,5,5
+CUST01221,Champions,4,5,5
+CUST00091,Champions,4,4,4
+CUST01907,Champions,4,4,5
+CUST00004,Champions,4,5,5
+CUST01666,Champions,4,4,3
+CUST01655,Champions,4,5,4
+CUST00632,Champions,4,4,1
+CUST00914,Champions,4,5,5
+CUST01035,Champions,4,5,5
+CUST00679,Champions,4,4,5
+CUST01150,Champions,4,4,5
+CUST00817,Champions,4,5,5
+CUST01162,Champions,5,4,4
+CUST01670,Champions,4,4,4
+CUST00080,Champions,5,4,4
+CUST00143,Champions,4,5,5
+CUST00292,Champions,4,4,3
+CUST01789,Champions,4,5,5
+CUST01607,Champions,5,4,2
+CUST00327,Champions,5,4,4
+CUST00951,Champions,4,4,4
+CUST01515,Champions,5,4,4
+CUST01273,Champions,4,5,5
+CUST01786,Champions,4,5,5
+CUST01461,Champions,4,4,5
+CUST00932,Champions,4,5,5
+CUST01675,Champions,4,4,4
+CUST01933,Champions,4,5,5
+CUST00162,Champions,4,4,4
+CUST01166,Champions,4,4,4
+CUST01674,Champions,5,4,5
+CUST01168,Champions,4,5,5
+CUST01688,Champions,5,4,3
+CUST00374,Champions,5,4,3
+CUST01953,Champions,5,4,4
+CUST01236,Champions,4,5,5
+CUST00924,Champions,4,5,5
+CUST00548,Champions,5,5,5
+CUST01862,Champions,5,4,5
+CUST00965,Champions,5,5,5
+CUST00403,Champions,4,5,4
+CUST00820,Champions,5,5,3
+CUST01309,Champions,5,5,5
+CUST01039,Champions,5,5,5
+CUST00929,Champions,5,4,3
+CUST00576,Champions,4,5,5
+CUST01151,Champions,5,4,4
+CUST01231,Champions,5,4,2
+CUST00835,Champions,4,5,5
+CUST00846,Champions,4,5,4
+CUST01470,Champions,5,4,4
+CUST00322,Champions,4,4,4
+CUST01995,Champions,4,5,4
+CUST00388,Champions,4,5,3
+CUST01421,Champions,5,4,5
+CUST00150,Champions,4,4,4
+CUST01887,Champions,5,4,5
+CUST01216,Champions,4,5,4
+CUST01209,Champions,5,4,4
+CUST00402,Champions,4,5,5
+CUST01514,Champions,4,4,3
+CUST01950,Champions,4,4,4
+CUST01910,Champions,4,5,5
+CUST00450,Champions,4,5,5
+CUST00813,Champions,5,4,4
+CUST01287,Champions,5,4,3
+CUST01090,Champions,4,4,3
+CUST01864,Champions,4,5,5
+CUST00462,Champions,5,4,3
+CUST01517,Champions,4,5,5
+CUST00769,Champions,4,5,4
+CUST01012,Champions,4,4,5
+CUST00255,Champions,4,4,2
+CUST01598,Champions,4,4,3
+CUST00773,Champions,5,5,5
+CUST01777,Champions,4,4,3
+CUST01710,Champions,4,4,5
+CUST01519,Champions,4,5,4
+CUST00384,Champions,4,4,5
+CUST00863,Champions,4,4,4
+CUST00717,Champions,4,5,5
+CUST01751,Champions,5,5,5
+CUST01339,Champions,4,4,4
+CUST01912,Champions,4,5,4
+CUST01576,Champions,4,5,5
+CUST00119,Champions,4,5,4
+CUST01292,Champions,4,5,5
+CUST00113,Champions,4,5,5
+CUST01087,Champions,4,5,5
+CUST00363,Champions,4,5,5
+CUST00314,Champions,4,4,3
+CUST01702,Champions,4,5,5
+CUST00479,Champions,4,5,5
+CUST00577,Champions,4,5,4
+CUST01801,Champions,4,5,5
+CUST01469,Champions,4,5,5
+CUST01300,Champions,4,5,4
+CUST01458,Champions,4,5,3
+CUST00148,Champions,4,4,4
+CUST01769,Champions,4,5,5
+CUST00324,Champions,4,4,5
+CUST01299,Champions,5,4,4
+CUST00482,Champions,4,5,5
+CUST00774,Champions,4,5,5
+CUST00310,Champions,4,5,5
+CUST01947,Champions,4,5,5
+CUST01624,Champions,4,5,4
+CUST00613,Champions,4,5,4
+CUST01944,Champions,4,5,4
+CUST01733,Champions,4,5,5
+CUST00418,Champions,4,5,5
+CUST00499,Champions,4,5,5
+CUST01225,Champions,5,4,3
+CUST00864,Champions,5,5,5
+CUST00238,Champions,4,4,4
+CUST00975,Champions,4,4,5
+CUST00237,Champions,5,4,3
+CUST00611,Champions,4,5,4
+CUST00116,Champions,4,4,4
+CUST00328,Champions,4,4,3
+CUST00397,Champions,4,4,4
+CUST01387,Champions,4,4,5
+CUST01638,Champions,4,4,4
+CUST00977,Champions,4,4,2
+CUST00834,Champions,4,5,4
+CUST01963,Champions,4,5,5
+CUST01432,Champions,4,5,5
+CUST01825,Champions,4,4,5
+CUST01281,Champions,4,5,5
+CUST01745,Champions,4,4,4
+CUST00700,Champions,4,5,3
+CUST00859,Champions,4,4,5
+CUST01120,Champions,4,5,5
+CUST00724,Champions,4,4,4
+CUST01108,Champions,5,4,3
+CUST01025,Champions,5,4,4
+CUST00511,Champions,4,5,5
+CUST01826,Champions,4,4,4
+CUST01494,Champions,4,4,3
+CUST01017,Champions,4,4,4
+CUST00247,Champions,4,5,5
+CUST01836,Champions,4,4,5
+CUST00736,Champions,4,4,5
+CUST01069,Champions,4,4,5
+CUST01991,Champions,4,5,4
+CUST00677,Champions,5,4,2
+CUST01199,Champions,5,4,4
+CUST00959,Champions,5,4,4
+CUST01738,Champions,5,5,3
+CUST00635,Champions,5,4,4
+CUST01155,Champions,5,4,5
+CUST00264,Champions,5,4,5
+CUST01570,Champions,5,4,5
+CUST00122,Champions,5,5,5
+CUST01096,Champions,4,5,4
+CUST01757,Champions,5,5,5
+CUST01849,Champions,5,5,5
+CUST01722,Champions,5,5,5
+CUST00489,Champions,5,5,5
+CUST00225,Champions,5,5,5
+CUST01055,Champions,4,4,2
+CUST00217,Champions,5,5,4
+CUST01785,Champions,5,4,4
+CUST00176,Champions,5,5,5
+CUST00512,Champions,5,4,3
+CUST00106,Champions,5,4,5
+CUST00550,Champions,5,5,5
+CUST00142,Champions,5,5,5
+CUST00464,Champions,5,5,5
+CUST00036,Champions,5,4,3
+CUST00882,Champions,5,5,5
+CUST00723,Champions,5,5,5
+CUST00560,Champions,5,4,4
+CUST00101,Champions,5,4,4
+CUST00574,Champions,4,5,5
+CUST00828,Champions,5,4,4
+CUST01316,Champions,5,5,4
+CUST00443,Champions,5,5,4
+CUST00765,Champions,5,4,3
+CUST01904,Champions,5,5,5
+CUST01689,Champions,5,4,4
+CUST01794,Champions,5,4,3
+CUST00088,Champions,5,4,4
+CUST01883,Champions,5,4,3
+CUST00171,Champions,4,5,5
+CUST01736,Champions,5,4,2
+CUST01929,Champions,5,5,4
+CUST01972,Champions,5,5,5
+CUST00472,Champions,5,4,4
+CUST01712,Champions,5,5,5
+CUST00808,Champions,5,4,5
+CUST01340,Champions,4,4,2
+CUST00439,Champions,5,4,2
+CUST01410,Champions,5,5,4
+CUST00048,Champions,5,5,5
+CUST01080,Champions,5,5,5
+CUST01532,Champions,5,5,5
+CUST00393,Champions,5,4,4
+CUST00476,Champions,5,4,4
+CUST01671,Champions,5,5,5
+CUST01330,Champions,5,4,4
+CUST00265,Champions,5,4,3
+CUST01990,Champions,5,5,5
+CUST00159,Champions,5,5,4
+CUST00414,Champions,5,5,5
+CUST01855,Champions,5,5,5
+CUST00582,Champions,4,4,3
+CUST01472,Champions,5,4,5
+CUST01233,Champions,5,4,4
+CUST01656,Champions,5,5,4
+CUST01567,Champions,5,5,5
+CUST01481,Champions,5,4,2
+CUST00995,Champions,5,5,4
+CUST00539,Champions,5,5,5
+CUST01628,Champions,4,5,4
+CUST01136,Champions,5,4,4
+CUST00806,Champions,5,4,4
+CUST00928,Champions,5,5,3
+CUST00937,Champions,5,5,5
+CUST00623,Champions,5,4,3
+CUST01193,Champions,5,4,3
+CUST01200,Champions,5,4,5
+CUST01116,Champions,5,4,4
+CUST01036,Champions,5,4,2
+CUST01861,Champions,5,4,2
+CUST00046,Champions,5,5,5
+CUST00460,Champions,5,5,4
+CUST00752,Champions,5,4,4
+CUST01760,Champions,5,5,5
+CUST00253,Champions,4,4,4
+CUST00893,Champions,5,4,4
+CUST00202,Champions,5,4,4
+CUST01255,Champions,5,5,5
+CUST00967,Champions,5,5,4
+CUST01615,Champions,4,5,5
+CUST00092,Champions,4,5,5
+CUST01818,Champions,5,5,5
+CUST00347,Champions,5,5,5
+CUST00522,Champions,4,4,5
+CUST01629,Champions,5,5,5
+CUST00658,Champions,5,4,4
+CUST00098,Champions,5,5,5
+CUST00379,Champions,4,5,5
+CUST01460,Champions,5,5,5
+CUST00168,Champions,5,5,5
+CUST00572,Champions,4,5,4
+CUST01677,Champions,5,4,3
+CUST01328,Champions,5,5,5
+CUST00138,Champions,5,4,4
+CUST01706,Champions,5,5,5
+CUST01813,Champions,5,4,4
+CUST01362,Champions,5,5,5
+CUST01585,Champions,5,5,4
+CUST01548,Champions,5,5,5
+CUST00364,Champions,4,4,4
+CUST00947,Champions,5,4,4
+CUST00783,Champions,5,5,5
+CUST00329,Champions,5,5,4
+CUST00931,Champions,4,5,4
+CUST00425,Champions,4,5,5
+CUST01267,Champions,5,5,5
+CUST01114,Champions,5,4,5
+CUST00801,Champions,5,5,5
+CUST01391,Champions,5,5,5
+CUST00250,Champions,5,5,4
+CUST00659,Champions,5,5,5
+CUST01975,Champions,5,5,5
+CUST00644,Champions,5,4,4
+CUST01346,Champions,5,5,5
+CUST01021,Champions,5,4,4
+CUST01282,Champions,5,5,5
+CUST01307,Champions,4,4,3
+CUST00636,Champions,5,4,5
+CUST00186,Champions,5,5,5
+CUST01954,Champions,4,5,5
+CUST01083,Champions,5,5,5
+CUST00041,Champions,5,4,3
+CUST01967,Champions,4,4,3
+CUST00498,Champions,5,5,4
+CUST00595,Champions,5,4,5
+CUST00958,Champions,4,4,4
+CUST01441,Champions,5,5,5
+CUST00040,Champions,4,5,5
+CUST01144,Champions,5,4,3
+CUST00043,Champions,5,5,5
+CUST01454,Champions,5,4,3
+CUST01584,Champions,5,4,4
+CUST01609,Champions,5,5,5
+CUST01263,Champions,5,4,3
+CUST01520,Champions,5,5,5
+CUST00061,Champions,4,4,2
+CUST01884,Champions,5,5,5
+CUST00555,Champions,4,4,3
+CUST00470,Champions,4,4,2
+CUST01392,Champions,4,5,4
+CUST00259,Champions,5,4,3
+CUST00184,Champions,4,5,5
+CUST01664,Champions,5,4,4
+CUST01483,Champions,4,5,5
+CUST01729,Champions,5,5,5
+CUST01525,Champions,5,5,5
+CUST01558,Champions,5,4,4
+CUST01353,Champions,5,4,4
+CUST00917,Champions,5,4,5
+CUST00508,Champions,5,4,4
+CUST01028,Champions,4,5,3
+CUST00691,Champions,5,5,5
+CUST01065,Champions,4,5,5
+CUST01145,Champions,5,4,4
+CUST01268,Champions,5,4,3
+CUST01167,Champions,5,5,5
+CUST01379,Champions,5,4,2
+CUST00127,Champions,5,4,5
+CUST00475,Champions,5,5,5
+CUST00451,Champions,5,4,4
+CUST00132,Champions,5,5,4
+CUST01821,Champions,5,4,3
+CUST01345,Champions,4,5,5
+CUST00530,Champions,5,4,4
+CUST01573,Champions,5,4,5
+CUST00706,Champions,5,4,3
+CUST01372,Champions,5,4,4
+CUST01993,Champions,5,4,3
+CUST00708,Champions,5,4,4
+CUST01229,Champions,5,5,5
+CUST00729,Champions,5,4,4
+CUST00811,Champions,5,4,4
+CUST00358,Champions,5,5,4
+CUST00149,Champions,5,5,5
+CUST01782,Champions,4,5,5
+CUST00410,Champions,5,4,2
+CUST00711,Champions,5,5,5
+CUST00865,Champions,5,5,5
+CUST00121,Champions,5,5,5
+CUST00575,Champions,5,4,4
+CUST01265,Champions,5,5,5
+CUST01371,Champions,4,5,5
+CUST01351,Champions,5,5,5
+CUST00260,Champions,5,4,3
+CUST01125,Champions,5,5,5
+CUST00224,Champions,5,5,3
+CUST00027,Champions,5,5,5
+CUST00123,Champions,4,4,5
+CUST00223,Champions,4,5,4
+CUST01610,Champions,5,4,5
+CUST00999,Champions,4,5,5
+CUST00950,Champions,5,4,4
+CUST00804,Champions,4,4,2
+CUST01297,Champions,5,4,5
+CUST01289,Champions,5,5,5
+CUST00386,Champions,4,4,3
+CUST01694,Champions,4,4,5
+CUST01552,Champions,4,4,4
+CUST00170,Champions,5,5,5
+CUST01653,Champions,5,5,5
+CUST01180,Champions,5,5,5
+CUST01279,Champions,4,5,5
+CUST01665,Champions,4,4,5
+CUST00897,Champions,5,5,5
+CUST01718,Champions,4,5,4
+CUST00553,Champions,5,4,4
+CUST00103,Champions,5,5,5
+CUST00241,Champions,4,5,5
+CUST01959,Lost Customers,1,2,2
+CUST01085,Lost Customers,1,1,2
+CUST00033,Lost Customers,1,1,2
+CUST00640,Lost Customers,1,2,3
+CUST01435,Lost Customers,1,1,1
+CUST01893,Lost Customers,1,2,3
+CUST00883,Lost Customers,1,2,3
+CUST00686,Lost Customers,1,2,3
+CUST01003,Lost Customers,1,2,2
+CUST01331,Lost Customers,1,1,1
+CUST01007,Lost Customers,1,2,2
+CUST01310,Lost Customers,1,1,1
+CUST01102,Lost Customers,1,2,2
+CUST00256,Lost Customers,1,1,1
+CUST00793,Lost Customers,1,2,3
+CUST01325,Lost Customers,1,1,2
+CUST00444,Lost Customers,1,2,2
+CUST01398,Lost Customers,1,1,1
+CUST00090,Lost Customers,1,2,3
+CUST00759,Lost Customers,1,2,4
+CUST00193,Lost Customers,1,1,1
+CUST01960,Lost Customers,1,2,4
+CUST01306,Lost Customers,1,2,3
+CUST00603,Lost Customers,1,1,1
+CUST00756,Lost Customers,1,1,1
+CUST01805,Lost Customers,1,1,1
+CUST01504,Lost Customers,1,1,1
+CUST00590,Lost Customers,1,1,1
+CUST01599,Lost Customers,1,2,2
+CUST00114,Lost Customers,1,1,1
+CUST00521,Lost Customers,1,2,2
+CUST01586,Lost Customers,1,1,2
+CUST01198,Lost Customers,1,2,2
+CUST01538,Lost Customers,1,2,2
+CUST00877,Lost Customers,1,1,1
+CUST00989,Lost Customers,1,1,2
+CUST01377,Lost Customers,1,2,1
+CUST00730,Lost Customers,1,1,1
+CUST00504,Lost Customers,1,2,3
+CUST00282,Lost Customers,1,1,1
+CUST01384,Lost Customers,1,2,3
+CUST00850,Lost Customers,1,1,1
+CUST01829,Lost Customers,1,1,1
+CUST01131,Lost Customers,1,2,3
+CUST01135,Lost Customers,1,1,1
+CUST00445,Lost Customers,1,2,2
+CUST01497,Lost Customers,1,2,2
+CUST01806,Lost Customers,1,2,3
+CUST00214,Lost Customers,1,1,1
+CUST00197,Lost Customers,1,2,2
+CUST01329,Lost Customers,1,1,3
+CUST01041,Lost Customers,1,1,1
+CUST01889,Lost Customers,1,1,1
+CUST00069,Lost Customers,1,2,2
+CUST00587,Lost Customers,1,2,1
+CUST01253,Lost Customers,1,1,1
+CUST00721,Lost Customers,1,1,1
+CUST00552,Lost Customers,1,1,1
+CUST01149,Lost Customers,1,1,2
+CUST00175,Lost Customers,1,2,2
+CUST01317,Lost Customers,1,2,1
+CUST01027,Lost Customers,1,2,1
+CUST00665,Lost Customers,1,1,1
+CUST01002,Lost Customers,1,1,1
+CUST00768,Lost Customers,1,2,2
+CUST01596,Lost Customers,1,1,1
+CUST01873,Lost Customers,1,1,1
+CUST00286,Lost Customers,1,2,2
+CUST00240,Lost Customers,1,1,1
+CUST01920,Lost Customers,1,2,2
+CUST01201,Lost Customers,1,2,1
+CUST00562,Lost Customers,1,1,1
+CUST01305,Lost Customers,1,2,3
+CUST01182,Lost Customers,1,1,2
+CUST01426,Lost Customers,1,2,1
+CUST01744,Lost Customers,1,2,1
+CUST01064,Lost Customers,1,2,1
+CUST01551,Lost Customers,1,2,2
+CUST01832,Lost Customers,1,1,2
+CUST01583,Lost Customers,1,2,3
+CUST01955,Lost Customers,1,2,1
+CUST00688,Lost Customers,1,1,2
+CUST01816,Lost Customers,1,2,1
+CUST00215,Lost Customers,1,2,2
+CUST01577,Lost Customers,1,2,2
+CUST01393,Lost Customers,1,2,1
+CUST00991,Lost Customers,1,1,1
+CUST01257,Lost Customers,1,2,4
+CUST00095,Lost Customers,1,1,2
+CUST00316,Lost Customers,1,1,2
+CUST01906,Lost Customers,1,1,2
+CUST00368,Lost Customers,1,1,1
+CUST01086,Lost Customers,1,1,1
+CUST01091,Lost Customers,1,1,2
+CUST00631,Lost Customers,1,1,1
+CUST01240,Lost Customers,1,2,2
+CUST01184,Lost Customers,1,1,1
+CUST00789,Lost Customers,1,1,3
+CUST00753,Lost Customers,1,2,2
+CUST01812,Lost Customers,1,1,1
+CUST01121,Lost Customers,1,1,1
+CUST00962,Lost Customers,1,1,2
+CUST00970,Lost Customers,1,1,1
+CUST00503,Lost Customers,1,2,1
+CUST01822,Lost Customers,1,2,2
+CUST01227,Lost Customers,1,2,2
+CUST01720,Lost Customers,1,1,2
+CUST01845,Lost Customers,1,2,2
+CUST01170,Lost Customers,1,1,1
+CUST01771,Lost Customers,1,2,2
+CUST00370,Lost Customers,1,2,3
+CUST00627,Lost Customers,1,1,1
+CUST00336,Lost Customers,1,2,1
+CUST01100,Lost Customers,1,2,2
+CUST01061,Lost Customers,1,1,1
+CUST00775,Lost Customers,1,2,3
+CUST01023,Lost Customers,1,2,2
+CUST01977,Lost Customers,1,1,2
+CUST01124,Lost Customers,1,1,1
+CUST01357,Lost Customers,1,2,4
+CUST00487,Lost Customers,1,1,1
+CUST00179,Lost Customers,1,1,1
+CUST01010,Lost Customers,1,1,1
+CUST00361,Lost Customers,1,2,2
+CUST01962,Lost Customers,1,1,1
+CUST00352,Lost Customers,1,2,3
+CUST01770,Lost Customers,1,2,2
+CUST00009,Lost Customers,1,1,1
+CUST01668,Lost Customers,1,2,4
+CUST01029,Lost Customers,1,1,1
+CUST00872,Lost Customers,1,1,1
+CUST01589,Lost Customers,1,1,2
+CUST01049,Lost Customers,1,1,1
+CUST00488,Lost Customers,1,1,1
+CUST00554,Lost Customers,1,1,1
+CUST00172,Lost Customers,1,1,1
+CUST00698,Lost Customers,1,1,2
+CUST00239,Lost Customers,1,1,2
+CUST00518,Lost Customers,1,1,1
+CUST00275,Lost Customers,1,2,1
+CUST00527,Lost Customers,1,2,2
+CUST01248,Lost Customers,1,2,3
+CUST01242,Lost Customers,1,1,2
+CUST01270,Lost Customers,1,1,2
+CUST01863,Lost Customers,1,1,1
+CUST01616,Lost Customers,1,1,1
+CUST01156,Lost Customers,1,1,1
+CUST01430,Lost Customers,1,2,2
+CUST01985,Lost Customers,1,2,3
+CUST00139,Lost Customers,1,1,1
+CUST01175,Lost Customers,1,1,1
+CUST01792,Lost Customers,1,1,2
+CUST01717,Lost Customers,1,2,1
+CUST01252,Lost Customers,1,2,2
+CUST00831,Lost Customers,1,2,4
+CUST00777,Lost Customers,1,2,2
+CUST01113,Lost Customers,1,2,1
+CUST00018,Lost Customers,1,2,2
+CUST00805,Lost Customers,1,1,1
+CUST00340,Lost Customers,1,2,4
+CUST01194,Lost Customers,1,1,1
+CUST00816,Lost Customers,1,1,1
+CUST01651,Lost Customers,1,1,1
+CUST01690,Lost Customers,1,1,1
+CUST00913,Lost Customers,1,1,1
+CUST01692,Lost Customers,1,2,3
+CUST01350,Lost Customers,1,1,1
+CUST01537,Lost Customers,1,2,3
+CUST00483,Lost Customers,1,2,1
+CUST00035,Lost Customers,1,2,3
+CUST00298,Lost Customers,1,1,1
+CUST00230,Lost Customers,1,1,3
+CUST01982,Lost Customers,1,2,2
+CUST00949,Lost Customers,1,2,1
+CUST00126,Lost Customers,1,2,1
+CUST01746,Lost Customers,1,1,3
+CUST01809,Lost Customers,1,2,1
+CUST00654,Lost Customers,1,2,2
+CUST00191,Lost Customers,1,2,2
+CUST01507,Lost Customers,1,2,3
+CUST00411,Lost Customers,1,1,1
+CUST00710,Lost Customers,1,2,2
+CUST01327,Lost Customers,1,1,1
+CUST00578,Lost Customers,1,1,3
+CUST01500,Lost Customers,1,1,1
+CUST00330,Lost Customers,1,2,4
+CUST01678,Lost Customers,1,1,1
+CUST01535,Lost Customers,1,1,1
+CUST00922,Lost Customers,1,2,2
+CUST00382,Lost Customers,1,1,1
+CUST01323,Lost Customers,1,2,1
+CUST00469,Lost Customers,1,2,2
+CUST00492,Lost Customers,1,1,2
+CUST01464,Lost Customers,1,2,2
+CUST00075,Lost Customers,1,2,2
+CUST00996,Lost Customers,1,1,1
+CUST00930,Lost Customers,1,2,3
+CUST00906,Lost Customers,1,2,2
+CUST00515,Lost Customers,1,2,3
+CUST01363,Lost Customers,1,2,3
+CUST01043,Lost Customers,1,1,1
+CUST00955,Lost Customers,1,2,3
+CUST01894,Lost Customers,1,2,1
+CUST00350,Lost Customers,1,2,3
+CUST00125,Lost Customers,1,1,1
+CUST00670,Lost Customers,1,1,2
+CUST00876,Lost Customers,1,2,2
+CUST01798,Lost Customers,1,1,1
+CUST01676,Lost Customers,1,1,1
+CUST01052,Lost Customers,1,1,1
+CUST01315,Lost Customers,1,2,3
+CUST00249,Lost Customers,1,1,1
+CUST01997,Lost Customers,1,2,2
+CUST01976,Lost Customers,1,1,1
+CUST01568,Lost Customers,1,2,3
+CUST01349,Loyal Customers,4,3,5
+CUST00853,Loyal Customers,3,5,5
+CUST00938,Loyal Customers,3,5,4
+CUST00660,Loyal Customers,3,5,5
+CUST00798,Loyal Customers,3,3,2
+CUST01463,Loyal Customers,3,4,3
+CUST00109,Loyal Customers,3,4,5
+CUST00339,Loyal Customers,3,3,4
+CUST01207,Loyal Customers,3,5,5
+CUST00118,Loyal Customers,3,4,4
+CUST00446,Loyal Customers,3,5,5
+CUST00963,Loyal Customers,3,3,2
+CUST01563,Loyal Customers,3,4,4
+CUST00982,Loyal Customers,3,5,5
+CUST00449,Loyal Customers,3,5,5
+CUST01891,Loyal Customers,3,4,4
+CUST00909,Loyal Customers,3,5,5
+CUST01437,Loyal Customers,3,4,2
+CUST00643,Loyal Customers,3,4,4
+CUST00236,Loyal Customers,3,5,5
+CUST01971,Loyal Customers,3,4,5
+CUST01652,Loyal Customers,3,4,3
+CUST01776,Loyal Customers,3,3,3
+CUST00633,Loyal Customers,3,4,3
+CUST01496,Loyal Customers,3,4,3
+CUST01540,Loyal Customers,3,3,3
+CUST00628,Loyal Customers,3,3,3
+CUST01657,Loyal Customers,3,5,5
+CUST01501,Loyal Customers,3,3,3
+CUST01076,Loyal Customers,3,3,3
+CUST01559,Loyal Customers,3,3,4
+CUST00588,Loyal Customers,3,5,4
+CUST00621,Loyal Customers,3,5,5
+CUST01850,Loyal Customers,3,5,5
+CUST01495,Loyal Customers,3,5,5
+CUST00076,Loyal Customers,3,4,2
+CUST00360,Loyal Customers,3,4,4
+CUST00968,Loyal Customers,3,4,1
+CUST00935,Loyal Customers,3,4,3
+CUST01948,Loyal Customers,3,4,4
+CUST00417,Loyal Customers,3,3,3
+CUST00904,Loyal Customers,3,5,4
+CUST01456,Loyal Customers,3,5,5
+CUST01641,Loyal Customers,3,5,5
+CUST00669,Loyal Customers,3,3,3
+CUST00739,Loyal Customers,3,3,4
+CUST00105,Loyal Customers,3,3,4
+CUST00894,Loyal Customers,3,5,5
+CUST01523,Loyal Customers,3,4,3
+CUST01361,Loyal Customers,3,3,4
+CUST01466,Loyal Customers,3,4,4
+CUST01290,Loyal Customers,3,5,3
+CUST00166,Loyal Customers,3,3,3
+CUST01235,Loyal Customers,3,4,4
+CUST01612,Loyal Customers,3,4,5
+CUST00187,Loyal Customers,3,5,4
+CUST00135,Loyal Customers,3,5,5
+CUST00619,Loyal Customers,3,3,4
+CUST01739,Loyal Customers,3,3,3
+CUST00941,Loyal Customers,3,3,2
+CUST01493,Loyal Customers,3,5,4
+CUST00371,Loyal Customers,3,5,4
+CUST01185,Loyal Customers,3,5,5
+CUST01565,Loyal Customers,3,4,5
+CUST01784,Loyal Customers,3,5,5
+CUST01945,Loyal Customers,3,4,5
+CUST01296,Loyal Customers,3,3,2
+CUST01304,Loyal Customers,3,3,4
+CUST00244,Loyal Customers,3,4,4
+CUST01632,Loyal Customers,3,5,5
+CUST01284,Loyal Customers,3,4,3
+CUST01444,Loyal Customers,3,5,5
+CUST00651,Loyal Customers,3,4,4
+CUST00551,Loyal Customers,3,4,3
+CUST01693,Loyal Customers,3,4,3
+CUST00044,Loyal Customers,3,4,4
+CUST00390,Loyal Customers,3,4,3
+CUST01595,Loyal Customers,3,5,5
+CUST00495,Loyal Customers,3,4,4
+CUST01477,Loyal Customers,3,3,1
+CUST00471,Loyal Customers,3,5,5
+CUST01574,Loyal Customers,3,5,5
+CUST00630,Loyal Customers,3,4,4
+CUST01303,Loyal Customers,3,4,5
+CUST01375,Loyal Customers,3,3,4
+CUST00873,Loyal Customers,3,3,2
+CUST00192,Loyal Customers,3,3,2
+CUST00228,Loyal Customers,3,3,2
+CUST01602,Loyal Customers,3,4,3
+CUST01986,Loyal Customers,3,5,5
+CUST00788,Loyal Customers,3,5,4
+CUST01026,Loyal Customers,3,3,1
+CUST00349,Loyal Customers,3,4,3
+CUST00790,Loyal Customers,3,4,4
+CUST01060,Loyal Customers,3,5,5
+CUST00485,Loyal Customers,3,5,5
+CUST01094,Loyal Customers,3,4,5
+CUST01419,Loyal Customers,3,5,5
+CUST00003,Loyal Customers,3,4,5
+CUST01197,Loyal Customers,3,5,5
+CUST01869,Loyal Customers,3,3,5
+CUST01529,Loyal Customers,3,4,3
+CUST01756,Loyal Customers,3,5,5
+CUST01743,Loyal Customers,3,4,2
+CUST01070,Loyal Customers,3,4,4
+CUST00131,Loyal Customers,3,5,5
+CUST00697,Loyal Customers,3,3,3
+CUST01728,Loyal Customers,3,4,4
+CUST00005,Loyal Customers,3,5,5
+CUST01089,Loyal Customers,3,3,3
+CUST00242,Loyal Customers,3,4,3
+CUST00291,Loyal Customers,3,3,2
+CUST00573,Loyal Customers,3,5,5
+CUST00842,Loyal Customers,3,4,5
+CUST00874,Loyal Customers,3,4,4
+CUST00463,Loyal Customers,3,5,5
+CUST01974,Loyal Customers,3,3,2
+CUST00936,Loyal Customers,3,4,5
+CUST00049,Loyal Customers,3,4,4
+CUST01996,Loyal Customers,3,5,5
+CUST00441,Loyal Customers,3,5,5
+CUST00491,Loyal Customers,3,5,4
+CUST01758,Loyal Customers,3,5,5
+CUST01562,Loyal Customers,3,3,4
+CUST00556,Loyal Customers,3,4,3
+CUST01557,Loyal Customers,3,5,5
+CUST01415,Loyal Customers,3,5,5
+CUST00396,Loyal Customers,3,3,3
+CUST01429,Loyal Customers,3,5,4
+CUST01643,Loyal Customers,3,5,5
+CUST00254,Loyal Customers,3,5,5
+CUST01560,Loyal Customers,3,3,2
+CUST00983,Loyal Customers,3,3,2
+CUST01804,Loyal Customers,3,3,3
+CUST00201,Loyal Customers,3,3,3
+CUST01880,Loyal Customers,3,5,5
+CUST01658,Loyal Customers,3,3,3
+CUST01687,Loyal Customers,3,3,3
+CUST00219,Loyal Customers,3,5,5
+CUST01506,Loyal Customers,3,3,3
+CUST01104,Loyal Customers,3,5,5
+CUST01088,Loyal Customers,3,3,4
+CUST00248,Loyal Customers,3,3,4
+CUST01224,Loyal Customers,3,4,4
+CUST00455,Loyal Customers,3,4,4
+CUST01291,Loyal Customers,3,3,4
+CUST01644,Loyal Customers,3,5,5
+CUST00601,Loyal Customers,3,4,3
+CUST01103,Loyal Customers,3,4,5
+CUST00684,Loyal Customers,3,4,4
+CUST01050,Loyal Customers,3,4,4
+CUST00355,Loyal Customers,3,4,3
+CUST00866,Loyal Customers,3,5,5
+CUST01134,Loyal Customers,3,5,5
+CUST00145,Loyal Customers,3,5,5
+CUST01107,Loyal Customers,3,5,3
+CUST01724,Loyal Customers,3,3,4
+CUST01774,Loyal Customers,3,4,4
+CUST00840,Loyal Customers,3,3,4
+CUST00309,Loyal Customers,3,3,4
+CUST00923,Loyal Customers,3,4,4
+CUST01854,Loyal Customers,3,3,4
+CUST00980,Loyal Customers,3,3,4
+CUST00459,Loyal Customers,3,3,2
+CUST00140,Loyal Customers,3,5,5
+CUST01048,Loyal Customers,3,4,5
+CUST01575,Loyal Customers,3,3,4
+CUST00561,Loyal Customers,3,5,5
+CUST00780,Loyal Customers,3,5,5
+CUST00423,Loyal Customers,3,4,4
+CUST01213,Loyal Customers,3,4,4
+CUST00803,Loyal Customers,3,4,4
+CUST00946,Loyal Customers,3,3,2
+CUST01079,Loyal Customers,3,3,3
+CUST00843,Loyal Customers,3,5,4
+CUST00293,Loyal Customers,3,3,3
+CUST00421,Loyal Customers,3,3,2
+CUST01938,Loyal Customers,3,4,4
+CUST00998,Loyal Customers,3,5,5
+CUST01820,Loyal Customers,3,5,4
+CUST01004,Loyal Customers,3,5,4
+CUST01811,Loyal Customers,3,4,4
+CUST01957,Loyal Customers,3,3,2
+CUST01406,Loyal Customers,3,4,4
+CUST01796,Loyal Customers,3,5,5
+CUST01420,Loyal Customers,3,5,5
+CUST01581,Loyal Customers,3,4,5
+CUST01817,Loyal Customers,3,4,3
+CUST00110,Loyal Customers,3,3,3
+CUST01215,Loyal Customers,3,4,4
+CUST01228,Loyal Customers,3,3,2
+CUST01130,Loyal Customers,3,3,3
+CUST01111,Loyal Customers,3,4,4
+CUST01553,Loyal Customers,3,3,2
+CUST00886,Loyal Customers,3,3,3
+CUST01382,Loyal Customers,3,5,5
+CUST00634,Loyal Customers,3,3,2
+CUST00608,Loyal Customers,3,5,5
+CUST00496,Loyal Customers,3,5,5
+CUST01544,Loyal Customers,3,5,5
+CUST00615,Loyal Customers,3,3,4
+CUST01132,Loyal Customers,3,3,3
+CUST01322,Loyal Customers,3,4,3
+CUST01368,Loyal Customers,3,3,4
+CUST01711,Loyal Customers,3,3,4
+CUST01932,Loyal Customers,3,4,4
+CUST00579,Loyal Customers,3,4,2
+CUST00301,Loyal Customers,3,3,2
+CUST00409,Loyal Customers,3,3,2
+CUST00013,Loyal Customers,3,3,2
+CUST00891,Loyal Customers,3,3,2
+CUST00786,Loyal Customers,3,5,4
+CUST00671,Loyal Customers,3,5,5
+CUST00838,Loyal Customers,3,4,3
+CUST00609,Loyal Customers,3,5,5
+CUST00220,Loyal Customers,3,5,4
+CUST01409,Loyal Customers,3,4,4
+CUST00680,Loyal Customers,3,3,3
+CUST00810,Loyal Customers,3,3,4
+CUST00484,Loyal Customers,3,5,3
+CUST01380,Loyal Customers,3,4,4
+CUST00558,Loyal Customers,3,5,4
+CUST01623,Loyal Customers,3,5,5
+CUST00742,Loyal Customers,3,3,4
+CUST00104,Loyal Customers,3,5,4
+CUST00797,Loyal Customers,3,3,3
+CUST01823,Loyal Customers,3,3,4
+CUST01752,Loyal Customers,3,5,5
+CUST00026,Loyal Customers,3,4,4
+CUST00566,Loyal Customers,3,3,3
+CUST00226,Loyal Customers,3,4,4
+CUST01110,Loyal Customers,3,4,4
+CUST00346,Loyal Customers,3,3,3
+CUST00703,Loyal Customers,3,3,3
+CUST01579,Loyal Customers,3,5,3
+CUST00881,Loyal Customers,3,5,5
+CUST00825,Loyal Customers,3,3,4
+CUST00822,Loyal Customers,3,3,3
+CUST00274,Loyal Customers,3,5,5
+CUST00313,Loyal Customers,3,3,4
+CUST00538,Loyal Customers,3,3,2
+CUST01518,Loyal Customers,3,3,2
+CUST00117,Loyal Customers,3,4,3
+CUST00029,Loyal Customers,3,3,4
+CUST01571,Loyal Customers,3,5,4
+CUST01807,Loyal Customers,3,3,4
+CUST00707,Loyal Customers,3,3,4
+CUST00404,Loyal Customers,3,4,4
+CUST00713,Loyal Customers,3,5,5
+CUST01122,Loyal Customers,3,3,1
+CUST01011,Loyal Customers,3,4,4
+CUST01526,Loyal Customers,3,5,5
+CUST01173,Loyal Customers,3,4,4
+CUST00182,Loyal Customers,3,4,3
+CUST01680,Loyal Customers,3,4,4
+CUST00055,Loyal Customers,3,5,5
+CUST01886,Loyal Customers,4,3,3
+CUST00083,Loyal Customers,4,3,1
+CUST00435,Loyal Customers,4,3,4
+CUST00832,Loyal Customers,4,3,3
+CUST00434,Loyal Customers,4,3,3
+CUST00232,Loyal Customers,4,3,4
+CUST00416,Loyal Customers,4,3,3
+CUST01936,Loyal Customers,4,3,5
+CUST01486,Loyal Customers,4,3,1
+CUST01625,Loyal Customers,4,3,2
+CUST00308,Loyal Customers,4,3,4
+CUST01370,Loyal Customers,4,3,3
+CUST00412,Loyal Customers,4,3,4
+CUST01843,Loyal Customers,4,3,3
+CUST00696,Loyal Customers,4,3,3
+CUST01759,Loyal Customers,4,3,3
+CUST01423,Loyal Customers,4,3,3
+CUST01856,Loyal Customers,4,3,4
+CUST00208,Loyal Customers,4,3,2
+CUST00042,Loyal Customers,4,3,3
+CUST01969,Loyal Customers,4,3,3
+CUST01190,Loyal Customers,4,3,4
+CUST00734,Loyal Customers,4,3,3
+CUST00440,Loyal Customers,4,3,2
+CUST00161,Loyal Customers,4,3,2
+CUST01015,Loyal Customers,4,3,2
+CUST00653,Loyal Customers,4,3,4
+CUST01984,Loyal Customers,4,3,4
+CUST00321,Loyal Customers,4,3,2
+CUST00453,Loyal Customers,4,3,3
+CUST00034,Loyal Customers,4,3,5
+CUST01416,Loyal Customers,4,3,2
+CUST00195,Loyal Customers,4,3,1
+CUST00007,Loyal Customers,4,3,3
+CUST00028,Loyal Customers,4,3,3
+CUST00407,Loyal Customers,4,3,3
+CUST00807,Loyal Customers,4,3,3
+CUST01909,Loyal Customers,4,3,3
+CUST00173,Loyal Customers,4,3,2
+CUST00065,Loyal Customers,4,3,4
+CUST01075,Loyal Customers,4,3,3
+CUST00427,Loyal Customers,4,3,4
+CUST00467,Loyal Customers,4,3,3
+CUST01008,Loyal Customers,4,3,4
+CUST01179,Loyal Customers,4,3,2
+CUST01918,Loyal Customers,4,3,3
+CUST00701,Loyal Customers,4,3,1
+CUST01176,Loyal Customers,4,3,3
+CUST01258,Loyal Customers,4,3,4
+CUST00848,Loyal Customers,4,3,2
+CUST00594,Loyal Customers,4,3,4
+CUST01203,Loyal Customers,4,3,3
+CUST01685,Loyal Customers,4,3,3
+CUST00728,Loyal Customers,4,3,4
+CUST01335,Loyal Customers,4,3,3
+CUST01211,Loyal Customers,4,3,5
+CUST00221,Loyal Customers,4,3,3
+CUST01814,Loyal Customers,4,3,3
+CUST01734,Loyal Customers,4,3,3
+CUST00956,Loyal Customers,4,3,3
+CUST00096,Loyal Customers,4,3,3
+CUST01533,Loyal Customers,4,3,3
+CUST00233,Loyal Customers,4,3,3
+CUST00606,Loyal Customers,4,3,3
+CUST01521,Loyal Customers,4,3,3
+CUST00052,Loyal Customers,4,3,3
+CUST00978,Loyal Customers,4,3,3
+CUST01062,Loyal Customers,4,3,4
+CUST00589,Loyal Customers,4,3,3
+CUST00889,Loyal Customers,4,3,3
+CUST00272,Loyal Customers,4,3,2
+CUST01319,Loyal Customers,4,3,2
+CUST01047,Loyal Customers,4,3,2
+CUST01681,Loyal Customers,4,3,4
+CUST00081,Loyal Customers,4,3,2
+CUST00050,Loyal Customers,4,3,3
+CUST00648,Loyal Customers,4,3,2
+CUST00200,Loyal Customers,4,3,3
+CUST00287,Loyal Customers,4,3,5
+CUST00625,Loyal Customers,4,3,5
+CUST01750,Loyal Customers,4,3,3
+CUST00735,Loyal Customers,4,3,2
+CUST01660,Loyal Customers,5,3,2
+CUST00624,Loyal Customers,5,3,4
+CUST01705,Loyal Customers,5,3,4
+CUST00821,Loyal Customers,5,3,4
+CUST01754,Loyal Customers,5,3,3
+CUST01014,Loyal Customers,5,3,3
+CUST00335,Loyal Customers,5,3,3
+CUST01951,Loyal Customers,5,3,3
+CUST00333,Loyal Customers,5,3,3
+CUST00205,Loyal Customers,5,3,2
+CUST01183,Loyal Customers,5,3,3
+CUST01667,Loyal Customers,5,3,3
+CUST00519,Loyal Customers,5,3,1
+CUST01793,Loyal Customers,5,3,2
+CUST01277,Loyal Customers,5,3,3
+CUST01334,Loyal Customers,5,3,3
+CUST01359,Loyal Customers,5,3,3
+CUST01550,Loyal Customers,5,3,2
+CUST01146,Loyal Customers,5,3,4
+CUST01897,Loyal Customers,5,3,3
+CUST00366,Loyal Customers,5,3,4
+CUST00860,Loyal Customers,5,3,2
+CUST00900,Loyal Customers,5,3,3
+CUST00815,Loyal Customers,5,3,3
+CUST00887,Loyal Customers,5,3,4
+CUST01249,Loyal Customers,5,3,3
+CUST01878,Loyal Customers,5,3,4
+CUST01451,Loyal Customers,5,3,2
+CUST01220,Loyal Customers,5,3,1
+CUST01749,Loyal Customers,5,3,1
+CUST00649,Loyal Customers,5,3,1
+CUST01810,Loyal Customers,5,3,2
+CUST01487,Loyal Customers,5,3,2
+CUST00718,Loyal Customers,5,3,2
+CUST01788,Loyal Customers,5,3,3
+CUST01295,Loyal Customers,5,3,1
+CUST01569,Loyal Customers,5,3,2
+CUST01473,Loyal Customers,5,3,3
+CUST01703,Loyal Customers,5,3,3
+CUST01001,Loyal Customers,5,3,4
+CUST00474,Loyal Customers,5,3,4
+CUST00689,Loyal Customers,5,3,5
+CUST00251,Loyal Customers,5,3,3
+CUST01244,Loyal Customers,5,3,4
+CUST01280,Loyal Customers,5,3,1
+CUST00714,Loyal Customers,5,3,3
+CUST00107,Loyal Customers,5,3,5
+CUST00687,Loyal Customers,5,3,4
+CUST00299,Loyal Customers,5,3,3
+CUST00979,Loyal Customers,5,3,4
+CUST01992,Loyal Customers,5,3,3
+CUST00047,Loyal Customers,5,3,2
+CUST00408,Loyal Customers,5,3,2
+CUST01164,Loyal Customers,5,3,2
+CUST00664,Loyal Customers,5,3,2
+CUST01237,Loyal Customers,5,3,2
+CUST00424,Loyal Customers,5,3,2
+CUST00868,Loyal Customers,5,3,2
+CUST01545,Loyal Customers,5,3,3
+CUST01686,Loyal Customers,5,3,3
+CUST00829,Loyal Customers,5,3,4
+CUST00502,Loyal Customers,5,3,3
+CUST00974,Loyal Customers,5,3,3
+CUST00079,Loyal Customers,5,3,3
+CUST01457,Loyal Customers,5,3,3
+CUST00306,Loyal Customers,5,3,3
+CUST00058,Loyal Customers,5,3,4
+CUST01428,Loyal Customers,5,3,4
+CUST00826,Loyal Customers,5,3,4
+CUST00836,Loyal Customers,5,3,4
+CUST00442,Loyal Customers,5,3,1
+CUST01763,Potential Loyalist,2,1,2
+CUST00776,Potential Loyalist,4,1,1
+CUST01157,Potential Loyalist,3,1,1
+CUST00678,Potential Loyalist,3,1,1
+CUST01336,Potential Loyalist,3,2,4
+CUST00010,Potential Loyalist,4,1,1
+CUST00901,Potential Loyalist,3,1,1
+CUST01895,Potential Loyalist,4,2,4
+CUST01587,Potential Loyalist,4,1,1
+CUST01860,Potential Loyalist,3,2,3
+CUST01530,Potential Loyalist,3,2,3
+CUST01057,Potential Loyalist,3,2,3
+CUST00699,Potential Loyalist,3,2,4
+CUST01045,Potential Loyalist,4,2,2
+CUST01259,Potential Loyalist,3,2,1
+CUST00540,Potential Loyalist,2,2,4
+CUST01524,Potential Loyalist,2,2,3
+CUST00685,Potential Loyalist,4,2,2
+CUST01634,Potential Loyalist,4,1,1
+CUST01092,Potential Loyalist,5,2,3
+CUST01835,Potential Loyalist,4,2,3
+CUST00750,Potential Loyalist,3,1,1
+CUST01498,Potential Loyalist,4,2,3
+CUST00002,Potential Loyalist,3,2,2
+CUST01639,Potential Loyalist,4,1,1
+CUST01618,Potential Loyalist,3,1,2
+CUST01783,Potential Loyalist,3,2,2
+CUST01358,Potential Loyalist,3,1,2
+CUST00509,Potential Loyalist,3,1,1
+CUST00315,Potential Loyalist,3,1,1
+CUST01499,Potential Loyalist,4,1,1
+CUST01979,Potential Loyalist,3,2,2
+CUST00523,Potential Loyalist,3,1,1
+CUST00567,Potential Loyalist,3,1,1
+CUST00178,Potential Loyalist,3,1,1
+CUST00093,Potential Loyalist,3,1,1
+CUST01338,Potential Loyalist,4,1,1
+CUST01031,Potential Loyalist,4,1,2
+CUST01044,Potential Loyalist,3,2,2
+CUST00398,Potential Loyalist,3,1,2
+CUST01142,Potential Loyalist,2,2,3
+CUST00273,Potential Loyalist,4,1,1
+CUST01204,Potential Loyalist,2,1,1
+CUST01098,Potential Loyalist,4,2,2
+CUST00857,Potential Loyalist,3,1,2
+CUST00705,Potential Loyalist,3,2,4
+CUST01226,Potential Loyalist,3,2,2
+CUST01030,Potential Loyalist,3,1,1
+CUST01844,Potential Loyalist,4,2,3
+CUST00925,Potential Loyalist,4,1,1
+CUST00169,Potential Loyalist,4,2,2
+CUST00690,Potential Loyalist,3,1,3
+CUST01549,Potential Loyalist,3,2,1
+CUST00391,Potential Loyalist,5,2,4
+CUST00646,Potential Loyalist,4,1,1
+CUST00827,Potential Loyalist,4,2,2
+CUST01364,Potential Loyalist,4,2,3
+CUST00743,Potential Loyalist,2,2,2
+CUST00898,Potential Loyalist,4,2,2
+CUST01484,Potential Loyalist,5,2,3
+CUST00426,Potential Loyalist,4,2,2
+CUST00869,Potential Loyalist,4,1,1
+CUST01172,Potential Loyalist,4,2,2
+CUST01115,Potential Loyalist,3,1,1
+CUST01324,Potential Loyalist,4,1,2
+CUST00976,Potential Loyalist,3,1,3
+CUST00799,Potential Loyalist,3,1,1
+CUST01772,Potential Loyalist,2,1,1
+CUST01276,Potential Loyalist,4,1,1
+CUST00433,Potential Loyalist,2,1,1
+CUST01659,Potential Loyalist,4,2,2
+CUST00639,Potential Loyalist,2,2,3
+CUST01966,Potential Loyalist,4,2,2
+CUST00818,Potential Loyalist,4,2,3
+CUST00024,Potential Loyalist,4,1,1
+CUST00762,Potential Loyalist,4,1,1
+CUST01648,Potential Loyalist,3,1,1
+CUST00549,Potential Loyalist,4,1,1
+CUST00059,Potential Loyalist,4,1,1
+CUST01414,Potential Loyalist,3,2,3
+CUST00218,Potential Loyalist,4,2,1
+CUST00525,Potential Loyalist,5,2,4
+CUST01834,Potential Loyalist,4,1,1
+CUST01697,Potential Loyalist,4,2,2
+CUST01385,Potential Loyalist,3,1,1
+CUST00353,Potential Loyalist,2,2,1
+CUST00638,Potential Loyalist,3,1,1
+CUST00907,Potential Loyalist,3,1,2
+CUST00629,Potential Loyalist,2,2,2
+CUST01187,Potential Loyalist,4,1,1
+CUST00945,Potential Loyalist,3,2,2
+CUST01802,Potential Loyalist,3,2,2
+CUST01682,Potential Loyalist,4,1,1
+CUST01934,Potential Loyalist,2,2,2
+CUST01592,Potential Loyalist,4,2,1
+CUST00365,Potential Loyalist,4,2,2
+CUST01885,Potential Loyalist,3,1,1
+CUST00782,Potential Loyalist,3,1,1
+CUST01761,Potential Loyalist,3,2,2
+CUST01588,Potential Loyalist,3,2,2
+CUST00066,Potential Loyalist,4,2,3
+CUST00151,Potential Loyalist,4,1,1
+CUST00372,Potential Loyalist,3,1,1
+CUST00920,Potential Loyalist,2,2,2
+CUST00500,Potential Loyalist,2,1,1
+CUST01502,Potential Loyalist,4,1,1
+CUST01397,Potential Loyalist,4,1,1
+CUST00189,Potential Loyalist,4,2,2
+CUST01077,Potential Loyalist,3,2,1
+CUST00942,Potential Loyalist,3,2,2
+CUST00787,Potential Loyalist,3,2,2
+CUST00971,Potential Loyalist,3,1,2
+CUST00016,Potential Loyalist,3,1,2
+CUST00130,Potential Loyalist,4,2,2
+CUST01642,Potential Loyalist,3,2,3
+CUST01181,Potential Loyalist,3,2,2
+CUST00908,Potential Loyalist,3,1,1
+CUST00855,Potential Loyalist,4,2,1
+CUST01352,Potential Loyalist,3,2,1
+CUST00102,Potential Loyalist,4,1,1
+CUST00910,Potential Loyalist,4,2,1
+CUST01376,Potential Loyalist,4,1,1
+CUST00547,Potential Loyalist,2,2,2
+CUST00211,Potential Loyalist,3,2,2
+CUST01578,Potential Loyalist,4,2,3
+CUST01925,Potential Loyalist,4,1,1
+CUST00108,Potential Loyalist,3,1,2
+CUST01981,Potential Loyalist,5,1,1
+CUST01159,Potential Loyalist,3,1,1
+CUST00745,Potential Loyalist,3,1,1
+CUST00570,Potential Loyalist,3,2,2
+CUST01780,Potential Loyalist,3,2,1
+CUST01298,Potential Loyalist,4,1,1
+CUST01034,Potential Loyalist,3,2,1
+CUST00719,Potential Loyalist,4,2,1
+CUST01214,Potential Loyalist,4,1,1
+CUST01988,Potential Loyalist,4,2,1
+CUST01768,Potential Loyalist,5,2,1
+CUST00280,Potential Loyalist,2,1,2
+CUST01669,Potential Loyalist,5,2,1
+CUST01937,Potential Loyalist,2,1,1
+CUST00019,Potential Loyalist,3,2,3
+CUST00307,Potential Loyalist,4,2,2
+CUST01830,Potential Loyalist,3,1,1
+CUST00507,Potential Loyalist,5,2,2
+CUST01492,Potential Loyalist,5,2,2
+CUST00017,Potential Loyalist,3,2,2
+CUST01827,Potential Loyalist,4,1,1
+CUST01403,Potential Loyalist,2,2,2
+CUST01614,Potential Loyalist,3,2,2
+CUST01143,Potential Loyalist,4,1,1
+CUST00317,Potential Loyalist,2,1,1
+CUST01921,Potential Loyalist,4,1,1
+CUST00473,Potential Loyalist,3,1,1
+CUST00089,Potential Loyalist,5,1,2
+CUST00833,Potential Loyalist,4,1,2
+CUST00712,Potential Loyalist,3,2,3
+CUST00953,Potential Loyalist,2,2,1
+CUST01905,Potential Loyalist,4,1,1
+CUST01174,Potential Loyalist,4,2,2
+CUST01872,Potential Loyalist,4,2,2
+CUST01539,Potential Loyalist,2,2,2
+CUST00862,Potential Loyalist,3,1,2
+CUST00819,Potential Loyalist,3,1,1
+CUST00674,Potential Loyalist,2,2,2
+CUST00311,Potential Loyalist,3,2,1
+CUST01928,Potential Loyalist,3,1,1
+CUST01505,Potential Loyalist,3,2,2
+CUST00163,Potential Loyalist,3,2,1
+CUST01890,Potential Loyalist,3,2,3
+CUST01455,Potential Loyalist,3,2,2
+CUST00668,Potential Loyalist,2,2,2
+CUST01230,Potential Loyalist,4,2,1
+CUST00867,Potential Loyalist,3,2,2
+CUST00305,Potential Loyalist,4,1,1
+CUST01603,Potential Loyalist,3,2,3
+CUST00725,Potential Loyalist,3,2,1
+CUST00493,Potential Loyalist,4,2,1
+CUST00073,Potential Loyalist,4,2,3
+CUST01742,Potential Loyalist,4,1,1
+CUST00332,Potential Loyalist,4,1,1
+CUST00731,Potential Loyalist,3,2,1
+CUST01344,Potential Loyalist,3,2,4
+CUST00213,Potential Loyalist,4,1,2
+CUST00030,Potential Loyalist,2,2,2
+CUST01620,Potential Loyalist,3,2,1
+CUST01163,Potential Loyalist,3,2,2
+CUST00112,Potential Loyalist,3,1,1
+CUST00235,Potential Loyalist,5,1,1
+CUST01630,Potential Loyalist,3,2,2
+CUST01815,Potential Loyalist,5,1,1
+CUST01046,Potential Loyalist,2,2,1
+CUST00583,Potential Loyalist,3,1,1
+CUST01320,Potential Loyalist,3,1,1
+CUST00181,Potential Loyalist,5,2,2
+CUST01210,Potential Loyalist,2,1,1
+CUST00134,Potential Loyalist,3,1,1
+CUST00429,Potential Loyalist,5,1,1
+CUST01946,Potential Loyalist,3,2,2
+CUST01762,Potential Loyalist,3,1,3
+CUST01321,Potential Loyalist,5,1,1
+CUST01516,Potential Loyalist,3,1,1
+CUST01022,Potential Loyalist,3,1,2
+CUST01727,Potential Loyalist,3,2,1
+CUST01926,Potential Loyalist,3,2,2
+CUST01051,Potential Loyalist,3,2,3
+CUST01716,Potential Loyalist,3,1,2
+CUST01958,Potential Loyalist,3,1,1
+CUST01838,Potential Loyalist,3,1,3
+CUST00334,Potential Loyalist,3,2,2
+CUST00204,Potential Loyalist,3,1,1
+CUST01038,Potential Loyalist,3,1,2
+CUST00481,Potential Loyalist,5,1,1
+CUST01725,Potential Loyalist,3,1,1
+CUST01766,Potential Loyalist,3,1,1
+CUST01871,Potential Loyalist,3,2,3
+CUST00389,Potential Loyalist,3,1,1
+CUST01360,Potential Loyalist,3,1,1
+CUST00972,Potential Loyalist,3,2,1
+CUST01608,Potential Loyalist,5,2,4
+CUST01153,Potential Loyalist,2,2,1
+CUST01566,Potential Loyalist,3,2,1
+CUST00084,Potential Loyalist,3,2,2
+CUST00137,Potential Loyalist,3,2,1
+CUST00884,Potential Loyalist,3,2,4
+CUST01128,Potential Loyalist,3,2,3
+CUST00222,Potential Loyalist,3,1,3
+CUST00456,Potential Loyalist,5,1,1
+CUST01154,Potential Loyalist,5,1,1
+CUST00062,Potential Loyalist,2,1,1
+CUST01547,Potential Loyalist,3,1,1
+CUST00616,Potential Loyalist,5,1,1
+CUST01126,Potential Loyalist,2,2,2
+CUST00571,Potential Loyalist,5,1,1
+CUST00740,Potential Loyalist,5,2,3
+CUST00792,Potential Loyalist,3,2,2
+CUST00536,Potential Loyalist,2,2,1
+CUST01892,Potential Loyalist,2,1,1
+CUST00415,Potential Loyalist,3,2,2
+CUST00580,Potential Loyalist,5,1,3
+CUST00281,Potential Loyalist,2,1,1
+CUST00610,Potential Loyalist,2,1,2
+CUST01662,Potential Loyalist,3,1,1
+CUST01940,Potential Loyalist,5,2,1
+CUST00086,Potential Loyalist,5,2,2
+CUST01476,Potential Loyalist,5,2,2
+CUST00082,Potential Loyalist,3,2,4
+CUST01636,Potential Loyalist,3,2,2
+CUST00543,Potential Loyalist,5,1,2
+CUST00969,Potential Loyalist,3,2,1
+CUST01218,Potential Loyalist,5,2,2
+CUST00733,Potential Loyalist,3,2,2
+CUST00961,Potential Loyalist,5,2,2
+CUST00477,Potential Loyalist,5,1,2
+CUST00944,Potential Loyalist,5,2,3
+CUST00656,Potential Loyalist,3,2,3
+CUST00981,Potential Loyalist,5,1,1
+CUST01024,Potential Loyalist,5,2,2
+CUST01448,Potential Loyalist,3,2,1
+CUST01536,Potential Loyalist,5,1,1
+CUST00531,Potential Loyalist,5,2,2
+CUST01427,Potential Loyalist,3,2,1
+CUST00875,Potential Loyalist,3,1,1
+CUST00911,Potential Loyalist,3,2,2
+CUST00921,Potential Loyalist,3,2,3
+CUST00905,Potential Loyalist,5,2,2
+CUST01196,Potential Loyalist,5,2,4
+CUST00885,Potential Loyalist,2,2,5
+CUST00376,Potential Loyalist,2,2,2
+CUST00880,Potential Loyalist,2,1,1
+CUST01341,Potential Loyalist,5,1,1
+CUST01723,Potential Loyalist,5,1,2
+CUST00586,Potential Loyalist,5,1,1
+CUST00289,Potential Loyalist,2,1,1
+CUST01245,Potential Loyalist,2,1,1
+CUST01833,Potential Loyalist,5,1,1
+CUST00167,Potential Loyalist,5,2,3
+CUST00357,Potential Loyalist,5,1,1
+CUST01942,Potential Loyalist,2,1,2
+CUST01903,Potential Loyalist,5,1,2
+CUST01186,Potential Loyalist,2,2,2
+CUST01066,Potential Loyalist,2,2,2
+CUST01847,Potential Loyalist,2,2,2
+CUST01208,Potential Loyalist,5,1,1
+CUST01582,Potential Loyalist,5,1,1
+CUST01042,Potential Loyalist,2,1,2
+CUST00023,Potential Loyalist,5,1,1
+CUST00614,Potential Loyalist,2,1,1
+CUST01721,Potential Loyalist,2,1,1
+CUST01161,Potential Loyalist,5,2,2
+CUST01964,Potential Loyalist,5,2,3
+CUST01546,Potential Loyalist,2,1,1
+CUST00174,Potential Loyalist,2,2,3
+CUST01311,Potential Loyalist,2,1,2
+CUST01980,Potential Loyalist,2,1,2
+CUST01672,Potential Loyalist,5,1,2
+CUST00915,Potential Loyalist,2,2,2
+CUST01983,Potential Loyalist,5,1,2
+CUST01342,Potential Loyalist,2,1,1
+CUST00359,Potential Loyalist,5,1,3
+CUST01272,Potential Loyalist,2,1,1
+CUST01071,Potential Loyalist,2,1,1
+CUST00160,Potential Loyalist,2,1,1
+CUST00785,Potential Loyalist,5,1,1
+CUST00216,Potential Loyalist,2,1,1
+CUST01285,Potential Loyalist,2,2,3
+CUST00757,Potential Loyalist,2,1,1
+CUST00584,Potential Loyalist,5,2,2
+CUST01973,Potential Loyalist,2,2,3
+CUST00431,Potential Loyalist,5,1,1
+CUST01459,Potential Loyalist,2,1,1
+CUST00837,Potential Loyalist,2,1,2
+CUST00890,Potential Loyalist,5,1,1
+CUST01700,Potential Loyalist,5,1,2
+CUST00262,Potential Loyalist,2,2,2
+CUST01968,Potential Loyalist,5,1,2
+CUST01908,Potential Loyalist,2,1,1
+CUST01260,Potential Loyalist,5,2,3
+CUST00585,Potential Loyalist,5,1,1
+CUST01246,Potential Loyalist,5,2,2
+CUST00675,Potential Loyalist,2,2,4
+CUST01365,Potential Loyalist,5,2,3
+CUST00563,Potential Loyalist,2,1,2
+CUST01400,Potential Loyalist,5,1,1
+CUST00111,Potential Loyalist,2,2,3
+CUST00748,Potential Loyalist,2,1,1
+CUST01439,Potential Loyalist,2,1,1
+CUST00377,Potential Loyalist,2,2,3
+CUST01433,Potential Loyalist,5,2,2
+CUST00761,Potential Loyalist,2,2,3
+CUST01503,Potential Loyalist,5,2,2
+CUST00501,Potential Loyalist,2,1,1
+CUST00234,Potential Loyalist,5,1,1
+CUST00478,Potential Loyalist,2,2,2
+CUST00987,Potential Loyalist,5,2,2
+CUST01900,Potential Loyalist,2,1,1
+CUST01741,Potential Loyalist,2,1,1
+CUST01063,Potential Loyalist,2,1,1
+CUST00263,Potential Loyalist,2,2,3
+CUST00559,Potential Loyalist,5,1,1
+CUST00795,Potential Loyalist,2,1,3
+CUST01781,Potential Loyalist,2,2,4
+CUST00720,Potential Loyalist,5,2,1
+CUST00448,Potential Loyalist,2,2,3
+CUST01522,Potential Loyalist,2,1,3
+CUST00318,Potential Loyalist,5,1,1
+CUST01097,Potential Loyalist,2,1,2
+CUST00157,Potential Loyalist,5,2,2
+CUST01899,Potential Loyalist,2,2,3
+CUST00258,Potential Loyalist,5,2,2
+CUST00268,Potential Loyalist,5,1,1
+CUST00394,Potential Loyalist,2,1,1
+CUST01621,Potential Loyalist,2,2,1
+CUST01707,Potential Loyalist,2,1,1
+CUST01073,Potential Loyalist,2,2,1
+CUST00888,Potential Loyalist,2,1,1
+CUST01288,Potential Loyalist,5,1,1
+CUST01422,Potential Loyalist,2,1,1
+CUST00985,Potential Loyalist,2,2,1
+CUST01373,Potential Loyalist,2,2,1
+CUST00934,Potential Loyalist,2,2,1
+CUST00661,Potential Loyalist,2,1,1
+CUST01870,Potential Loyalist,2,2,2
+CUST01528,Potential Loyalist,2,2,3
+CUST00245,Potential Loyalist,2,1,2
+CUST01177,Potential Loyalist,2,2,2
+CUST00722,Potential Loyalist,5,2,3
+CUST01217,Potential Loyalist,2,1,1
+CUST01719,Potential Loyalist,5,2,3
+CUST01999,Potential Loyalist,5,2,2
+CUST00271,Potential Loyalist,2,1,1
+CUST00612,Potential Loyalist,5,1,1
+CUST00849,Potential Loyalist,5,1,1
+CUST00667,Potential Loyalist,2,1,1
+CUST00741,Potential Loyalist,2,1,1
+CUST01343,Potential Loyalist,2,1,1
+CUST01250,Potential Loyalist,5,2,2
+CUST01395,Potential Loyalist,2,2,2
+CUST00809,Potential Loyalist,2,2,1
+CUST01019,Potential Loyalist,5,1,3
+CUST00183,Potential Loyalist,5,1,1
+CUST01987,Potential Loyalist,5,1,1
+CUST00257,Potential Loyalist,2,1,1
+CUST00672,Potential Loyalist,5,1,2
+CUST01842,Potential Loyalist,5,1,2
+CUST01511,Potential Loyalist,5,2,2
+CUST00100,Potential Loyalist,2,1,2
+CUST01865,Potential Loyalist,5,2,4
+CUST00528,Potential Loyalist,2,1,1
+CUST01286,Potential Loyalist,2,1,1
+CUST00663,Potential Loyalist,5,1,1
+CUST00694,Potential Loyalist,2,1,1
+CUST00557,Potential Loyalist,2,1,1
+CUST00847,Potential Loyalist,2,2,3
+CUST00337,Potential Loyalist,5,1,1
+CUST01896,Potential Loyalist,2,1,3
+CUST01803,Potential Loyalist,2,2,2
+CUST01082,Potential Loyalist,5,2,2
+CUST00542,Potential Loyalist,2,2,3
+CUST00858,Potential Loyalist,2,1,2
+CUST00060,Potential Loyalist,2,2,3
+CUST01369,Potential Loyalist,2,1,1
+CUST01699,Potential Loyalist,2,2,3
+CUST00267,Potential Loyalist,2,2,3
+CUST01445,Potential Loyalist,2,1,1
+CUST00715,Potential Loyalist,2,1,3
+CUST00760,Potential Loyalist,2,1,1
+CUST00283,Potential Loyalist,5,1,1
+CUST00899,Potential Loyalist,5,2,3
+CUST01148,Potential Loyalist,5,1,1
+CUST01649,Potential Loyalist,2,1,1
+CUST01846,Potential Loyalist,2,2,2
+CUST01059,Potential Loyalist,5,2,3
+CUST01580,Potential Loyalist,2,1,1
+CUST00727,Potential Loyalist,5,1,1
+CUST00269,Potential Loyalist,2,2,3
+CUST01590,Potential Loyalist,2,2,2
+CUST01105,Potential Loyalist,2,2,3
+CUST01764,Potential Loyalist,2,1,1
+CUST01302,Potential Loyalist,2,2,3
+CUST01691,Potential Loyalist,2,2,4
+CUST00428,Potential Loyalist,2,1,1
+CUST01779,Potential Loyalist,5,2,4
+CUST01534,Potential Loyalist,5,1,1
+CUST00011,Potential Loyalist,2,1,2
+CUST01067,Potential Loyalist,2,2,2
+CUST01635,Potential Loyalist,2,1,2
+CUST00312,Potential Loyalist,2,2,5
+CUST00997,Potential Loyalist,2,2,2
+CUST00001,Potential Loyalist,5,2,3
+CUST00763,Potential Loyalist,2,2,2
+CUST00326,Potential Loyalist,5,2,3
+CUST00993,Potential Loyalist,2,1,1
+CUST01923,Potential Loyalist,2,2,2
+CUST00367,Potential Loyalist,2,1,1
+CUST00188,Potential Loyalist,2,1,1
+CUST01274,Potential Loyalist,5,2,1
+CUST00618,Potential Loyalist,2,2,2
+CUST00532,Potential Loyalist,2,1,1
+CUST01106,Potential Loyalist,2,1,1
+CUST01269,Potential Loyalist,2,2,4
+CUST00054,Potential Loyalist,5,2,1
+CUST01787,Potential Loyalist,2,1,1
+CUST00344,Potential Loyalist,2,2,2
+CUST00791,Potential Loyalist,2,2,2
+CUST01390,Potential Loyalist,2,1,1
+CUST01482,Potential Loyalist,2,2,2
+CUST00943,Potential Loyalist,2,2,2
+CUST00626,Potential Loyalist,2,1,1
+CUST00319,Potential Loyalist,2,1,1
+CUST00605,Potential Loyalist,5,1,2
+CUST01378,Potential Loyalist,5,1,2
+CUST00510,Potential Loyalist,2,2,4
+CUST00071,Potential Loyalist,5,2,3
+CUST01708,Potential Loyalist,5,2,3
+CUST01513,Potential Loyalist,5,2,1
+CUST01056,Potential Loyalist,5,1,1
+CUST00593,Potential Loyalist,2,1,2
+CUST00641,Potential Loyalist,2,2,2
+CUST01032,Potential Loyalist,5,2,3
+CUST00544,Potential Loyalist,4,1,3
+CUST00296,Potential Loyalist,4,1,1
+CUST01848,Potential Loyalist,4,1,2
+CUST00505,Potential Loyalist,4,2,4
+CUST00290,Potential Loyalist,4,1,1
+CUST00136,Potential Loyalist,4,1,1
+CUST01775,Potential Loyalist,4,1,3
+CUST00164,Potential Loyalist,4,2,2
+CUST01819,Potential Loyalist,4,1,1
+CUST00288,Potential Loyalist,4,1,2
+CUST00854,Potential Loyalist,4,1,1
+CUST00354,Potential Loyalist,4,2,2
+CUST01383,Potential Loyalist,4,1,1
+CUST00074,Potential Loyalist,5,2,1
+CUST01837,Potential Loyalist,4,2,2
+CUST00331,Potential Loyalist,4,2,1
+CUST02000,Potential Loyalist,4,2,3
+CUST00452,Potential Loyalist,4,2,1
+CUST01241,Potential Loyalist,4,1,1
+CUST00194,Potential Loyalist,4,1,2
+CUST01333,Potential Loyalist,4,2,1
+CUST00845,Potential Loyalist,4,1,1
+CUST01446,Potential Loyalist,4,2,2
+CUST00190,Potential Loyalist,2,2,2
+CUST01234,Potential Loyalist,4,2,3
+CUST01556,Potential Loyalist,4,1,1
+CUST00738,Potential Loyalist,4,1,2
+CUST01531,Potential Loyalist,4,2,1
+CUST01916,Potential Loyalist,4,1,1
+CUST00348,Potential Loyalist,4,2,2
+CUST00014,Potential Loyalist,4,1,1
+CUST01732,Potential Loyalist,4,2,2
+CUST01541,Potential Loyalist,4,1,1
+CUST00432,Potential Loyalist,4,1,1
+CUST00276,Potential Loyalist,4,2,3
+CUST01109,Potential Loyalist,4,1,1
+CUST00203,Potential Loyalist,4,2,4
+CUST00392,Potential Loyalist,4,2,2
+CUST01139,Potential Loyalist,4,2,2
+CUST00447,Potential Loyalist,4,2,2
+CUST01543,Potential Loyalist,4,2,3
+CUST00637,Potential Loyalist,4,2,2
+CUST01413,Potential Loyalist,4,1,3
+CUST00039,Potential Loyalist,4,2,3
+CUST00607,Potential Loyalist,4,2,3
+CUST01902,Potential Loyalist,4,1,1
+CUST01735,Potential Loyalist,5,2,2
+CUST01440,Potential Loyalist,5,2,4
+CUST01261,Potential Loyalist,2,1,1
+CUST00087,Potential Loyalist,2,2,2
+CUST01158,Potential Loyalist,5,2,2
+CUST00702,Potential Loyalist,2,2,1
+CUST01679,Potential Loyalist,4,1,1
+CUST01888,Potential Loyalist,2,1,2
+CUST00341,Potential Loyalist,5,2,2
+CUST01243,Potential Loyalist,2,2,1
+CUST00279,Potential Loyalist,5,1,1
+CUST01394,Potential Loyalist,4,1,2
+CUST00356,Potential Loyalist,2,2,3
+CUST01831,Potential Loyalist,4,1,1
+CUST00747,Potential Loyalist,4,2,2
+CUST00716,Potential Loyalist,4,1,1
+CUST01223,Potential Loyalist,4,1,1
+CUST01956,Potential Loyalist,4,1,2
+CUST00051,Potential Loyalist,4,2,3
+CUST01238,Potential Loyalist,4,2,2
+CUST01411,Potential Loyalist,4,1,1
+CUST01407,Potential Loyalist,4,1,1
+CUST00903,Potential Loyalist,4,2,4
+CUST01961,Potential Loyalist,4,2,1
+CUST01898,Potential Loyalist,4,2,2
+CUST00681,Potential Loyalist,4,2,3
+CUST01512,Potential Loyalist,4,1,1
+CUST01264,Potential Loyalist,4,1,1
+CUST01355,Potential Loyalist,4,2,2
+CUST00879,Potential Loyalist,4,1,1
+CUST01594,Potential Loyalist,4,2,2
+CUST01851,Potential Loyalist,4,2,1
+CUST00796,Potential Loyalist,4,1,1
+CUST01348,Potential Loyalist,4,1,1
+CUST01326,Potential Loyalist,4,1,1
+CUST01755,Potential Loyalist,4,2,3
+CUST01101,Potential Loyalist,4,2,2
+CUST00896,Potential Loyalist,4,1,1
+CUST00345,Potential Loyalist,4,2,2
+CUST01037,Potential Loyalist,3,2,2
+CUST01347,Potential Loyalist,3,2,3
+CUST01405,Potential Loyalist,2,1,2
+CUST00022,Potential Loyalist,3,1,2
+CUST00892,Potential Loyalist,4,1,1
+CUST01715,Potential Loyalist,2,1,2
+CUST00067,Potential Loyalist,3,2,2
+CUST00177,Potential Loyalist,2,1,2
+CUST01554,Potential Loyalist,3,2,3
+CUST01117,Potential Loyalist,3,2,2
+CUST01795,Potential Loyalist,3,2,3
+CUST00682,Potential Loyalist,3,2,3
+CUST00926,Potential Loyalist,4,1,1
+CUST01465,Potential Loyalist,3,1,2
+CUST01911,Potential Loyalist,3,2,1
+CUST01952,Potential Loyalist,3,1,1
+CUST01424,Potential Loyalist,4,1,1
+CUST00120,Potential Loyalist,3,1,1
+CUST00325,Potential Loyalist,3,2,1
+CUST00824,Potential Loyalist,4,1,3
+CUST00749,Potential Loyalist,3,1,1
+CUST01868,Potential Loyalist,5,2,3
+CUST01123,Potential Loyalist,3,1,1
+CUST01013,Potential Loyalist,4,1,1
+CUST00529,Potential Loyalist,2,2,1
+CUST01254,Potential Loyalist,2,1,1
+CUST00302,Potential Loyalist,4,2,2
+CUST01877,Potential Loyalist,4,2,2
+CUST00207,Potential Loyalist,3,2,2
+CUST00737,Potential Loyalist,3,1,1
+CUST00755,Potential Loyalist,4,2,2
+CUST01631,Potential Loyalist,3,2,2
+CUST00545,Potential Loyalist,4,2,4
+CUST01941,Potential Loyalist,4,2,2
+CUST00128,Potential Loyalist,4,1,1
+CUST01418,Potential Loyalist,3,2,2
+CUST00666,Potential Loyalist,4,2,2
+CUST01765,Potential Loyalist,5,2,1
+CUST01262,Potential Loyalist,4,1,2
+CUST00973,Potential Loyalist,3,2,3
